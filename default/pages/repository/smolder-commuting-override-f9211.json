@@ -2,5 +2,5 @@
     "$id": "smolder-commuting-override-f9211",
     "$schema": "https://schema.yext.com/config/pages/repository/v1",
     "repoUrl": "github.com/big-ol-sandbox/yext-training.${{businessId}}.com",
-    "templateRepo": "github.com/big-ol-sandbox/yext-training.search300.com"
+    "templateRepo": "github.com/big-ol-sandbox/yext-training.search310.com"
   }
