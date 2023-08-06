@@ -1,0 +1,50 @@
+{
+  "$id": "faq-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnSearch": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "The Turtleheads are members of our loyalty program! Turtlehead Tacos loves to reward our returning customers and we do this through the Turtleheads program. If you come to any Turtlehead Taco store 4 times, you will receive 19 tacos for free on your 5th visit.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "c_primaryCTA": {
+      "label": "Learn More",
+      "link": "http://www.turtleheadtacos.com/turtleheadfunzone",
+      "linkType": "URL"
+    },
+    "keywords": [
+      "loyalty"
+    ],
+    "question": "What are The Turtleheads?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

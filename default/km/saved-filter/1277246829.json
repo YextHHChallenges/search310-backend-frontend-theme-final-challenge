@@ -1,0 +1,29 @@
+{
+  "$id": "1277246829",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Help Articles on Search",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeOnSearch",
+        "searchBool": "TRUE"
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "helpArticle"
+        ],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithData": [
+      {
+        "fieldId": [
+          "bodyV2"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}

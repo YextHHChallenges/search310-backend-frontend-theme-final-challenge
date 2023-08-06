@@ -1,0 +1,52 @@
+{
+  "$id": "menu-item-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnSearch": true,
+    "c_allergens": [
+      "WHEAT"
+    ],
+    "c_calories": "220",
+    "description": "Chipotle marinated chicken and corn salsa, topped with a cilantro lime crema sauce. Choose corn or flour tortilla.",
+    "landingPageUrl": "https://menu.turtleheadtacos.com",
+    "name": "Chicken Tacos",
+    "primaryPhoto": {
+      "image": {
+        "height": 3679,
+        "thumbnails": [
+          {
+            "height": 3679,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH09XtlVXLar96SDE1fvswkHy2P6CFnw2CaJMaLkvf8/3679x3679.jpg",
+            "width": 3679
+          },
+          {
+            "height": 1900,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH09XtlVXLar96SDE1fvswkHy2P6CFnw2CaJMaLkvf8/1900x1900.jpg",
+            "width": 1900
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH09XtlVXLar96SDE1fvswkHy2P6CFnw2CaJMaLkvf8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH09XtlVXLar96SDE1fvswkHy2P6CFnw2CaJMaLkvf8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/YH09XtlVXLar96SDE1fvswkHy2P6CFnw2CaJMaLkvf8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/YH09XtlVXLar96SDE1fvswkHy2P6CFnw2CaJMaLkvf8/3679x3679.jpg",
+        "width": 3679
+      }
+    }
+  },
+  "entityType": "ce_menuItem",
+  "folder": "yext/root",
+  "labels": []
+}

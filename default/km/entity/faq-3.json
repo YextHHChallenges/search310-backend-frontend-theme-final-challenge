@@ -1,0 +1,50 @@
+{
+  "$id": "faq-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnSearch": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Yes, we offer gluten-free options! We have gluten-free tacos and quesadillas as well as gluten-free nachos.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "c_primaryCTA": {
+      "label": "View Menu",
+      "link": "http://www.turtleheadtacos.com/menu",
+      "linkType": "URL"
+    },
+    "keywords": [
+      "gluten-free"
+    ],
+    "question": "Do you offer any gluten-free options?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

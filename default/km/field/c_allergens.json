@@ -1,0 +1,36 @@
+{
+  "$id": "c_allergens",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Allergens",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "maxLength": 2000,
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Dairy",
+              "textValue": "DAIRY"
+            },
+            {
+              "displayName": "Wheat",
+              "textValue": "WHEAT"
+            },
+            {
+              "displayName": "Peanuts",
+              "textValue": "PEANUTS"
+            },
+            {
+              "displayName": "Shellfish",
+              "textValue": "SHELLFISH"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

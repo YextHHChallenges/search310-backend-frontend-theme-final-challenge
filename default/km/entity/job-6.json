@@ -1,0 +1,123 @@
+{
+  "$id": "job-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_associatedFAQs": [
+      "faq-8",
+      "faq-6",
+      "faq-7"
+    ],
+    "c_benefits": [
+      "Medical and Dental insurance plans",
+      "Paid time off",
+      "Personal development and career growth opportunities",
+      "Fun social events",
+      "Lots of taco eating",
+      "Discounts on food and merchandise",
+      "Free lunch on Mondays for your families"
+    ],
+    "c_jobDepartment": "RESTAURANT_TEAM",
+    "c_jobPhoto": {
+      "height": 450,
+      "sourceUrl": "https://dynl.mktgcdn.com/p-sandbox/ikDP_y9n1CtAUdWjCg7AgZhcYm4XadTxjWzwKr4A84I/700x450.jpg",
+      "thumbnails": [
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/675x450.jpg",
+          "width": 675
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/675x450.jpg",
+      "width": 675
+    },
+    "c_jobQualifications": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "1-4 years experience",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 1,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Friendly and patient with others",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 2,
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul",
+              "type": "list",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/128",
+    "datePosted": "2020-06-10",
+    "description": "We care deeply about the guest experience and our check-in coordinators are the first people that our guests see when they walk in the door! Whether they are guests coming for take-out or for dine-in, you will be the friendly greeter and coordinator.",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": "Turtlehead Tacos Restaurant",
+    "jobLocation": "15",
+    "name": "Check-in Coordinator"
+  },
+  "entityType": "job",
+  "folder": "4d637a323cab4d9b8b38a721c33ff119",
+  "labels": []
+}

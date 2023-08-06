@@ -1,0 +1,29 @@
+{
+  "$id": "1277252228",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Menu Items on Search",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeOnSearch",
+        "searchBool": "TRUE"
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "ce_menuItem"
+        ],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithData": [
+      {
+        "fieldId": [
+          "primaryPhoto"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}

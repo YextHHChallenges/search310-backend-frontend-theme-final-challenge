@@ -1,0 +1,210 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "brand-search",
+  "name": "Brand Search",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "events": {
+      "entityTypes": [
+        "event"
+      ],
+      "name": "Events",
+      "savedSearchId": "1242434077",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        },
+        "time.start": {
+          "sortable": true
+        }
+      },
+      "sortBys": [
+        {
+          "buckets": [],
+          "type": "RELEVANCE"
+        },
+        {
+          "buckets": [],
+          "direction": "ASC",
+          "field": "time.start",
+          "type": "FIELD"
+        }
+      ],
+      "source": "YEXT"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "1242428678",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "YEXT"
+    },
+    "help_articles": {
+      "entityTypes": [
+        "helpArticle"
+      ],
+      "name": "Help Articles",
+      "savedSearchId": "1277246829",
+      "searchableFields": {
+        "bodyV2": {
+          "documentSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "YEXT"
+    },
+    "menu_items": {
+      "entityTypes": [
+        "ce_menuItem"
+      ],
+      "name": "Menu Items",
+      "savedSearchId": "1277252228",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "YEXT"
+    },
+    "restaurants": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "mainPhone"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "restaurant"
+      ],
+      "name": "Restaurants",
+      "savedSearchId": "112002255",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.hours": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_promotingEvents.name": {
+          "nlpFilter": true
+        },
+        "c_restaurantFeatures": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_restaurantType": {
+          "facet": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "YEXT"
+    }
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "restaurant",
+        "location",
+        "locations"
+      ]
+    ],
+    "normalization": []
+  },
+  "localizations": {},
+  "rules": [
+    {
+      "criteria": {
+        "searchTermContains": [
+          "turtlehead"
+        ]
+      },
+      "actions": [
+        {
+          "actionType": "BOOST_VERTICALS",
+          "verticals": [
+            "faqs"
+          ]
+        }
+      ],
+      "name": "Boost FAQs for Turtlehead Search Term"
+    }
+  ],
+  "additionalSearchablePlaces": [],
+  "richTextV2ToHTML": true,
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "popularQueriesBlacklistedRegex": [],
+    "universalPrompts": [
+      "Restaurants near me",
+      "Do you offer delivery?",
+      "Events",
+      "Do you sell gift cards?",
+      "where to redeem gift cards",
+      "menu items"
+    ],
+    "verticalPrompts": {
+      "events": [
+        "[[name]]"
+      ],
+      "faqs": [
+        "[[name]]"
+      ],
+      "help_articles": [
+        "[[name]]"
+      ],
+      "menu_items": [
+        "[[name]]"
+      ],
+      "restaurants": [
+        "[[name]]"
+      ]
+    }
+  }
+}

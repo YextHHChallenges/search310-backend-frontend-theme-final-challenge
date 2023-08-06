@@ -1,0 +1,15 @@
+{
+  "$id": "1242434077",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Events in the Future",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "event"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

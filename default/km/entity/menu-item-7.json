@@ -1,0 +1,49 @@
+{
+  "$id": "menu-item-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnSearch": true,
+    "c_calories": "480",
+    "description": "Perfectly textured with delightful avocado chunks, this green gem pairs beautifully with our homemade tortilla chips, enhancing your snacking experience. A harmonious blend of zesty lime juice, aromatic cilantro, and diced tomatoes adds a burst of brightness that dances on your palate.",
+    "landingPageUrl": "https://menu.turtleheadtacos.com",
+    "name": "Chips and Guacamole",
+    "primaryPhoto": {
+      "image": {
+        "height": 3648,
+        "thumbnails": [
+          {
+            "height": 3648,
+            "url": "https://a.mktgcdn.com/p-sandbox/c7tPQxO_O0bNdLKtLRqAv0mmJU_oLivuxLEeXTzLH3M/3648x3648.jpg",
+            "width": 3648
+          },
+          {
+            "height": 1900,
+            "url": "https://a.mktgcdn.com/p-sandbox/c7tPQxO_O0bNdLKtLRqAv0mmJU_oLivuxLEeXTzLH3M/1900x1900.jpg",
+            "width": 1900
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/c7tPQxO_O0bNdLKtLRqAv0mmJU_oLivuxLEeXTzLH3M/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/c7tPQxO_O0bNdLKtLRqAv0mmJU_oLivuxLEeXTzLH3M/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/c7tPQxO_O0bNdLKtLRqAv0mmJU_oLivuxLEeXTzLH3M/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/c7tPQxO_O0bNdLKtLRqAv0mmJU_oLivuxLEeXTzLH3M/3648x3648.jpg",
+        "width": 3648
+      }
+    }
+  },
+  "entityType": "ce_menuItem",
+  "folder": "yext/root",
+  "labels": []
+}

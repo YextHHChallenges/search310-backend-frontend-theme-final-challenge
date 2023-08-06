@@ -1,0 +1,20 @@
+{
+  "$id": "hq-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "100 Congress Ave",
+      "postalCode": "78701",
+      "region": "TX"
+    },
+    "addressHidden": false,
+    "mainPhone": "+18004155555",
+    "name": "Headquarters",
+    "timezone": "America/Chicago"
+  },
+  "entityType": "location",
+  "labels": []
+}

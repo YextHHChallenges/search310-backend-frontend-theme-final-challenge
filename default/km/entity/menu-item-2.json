@@ -1,0 +1,52 @@
+{
+  "$id": "menu-item-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnSearch": true,
+    "c_allergens": [
+      "WHEAT"
+    ],
+    "c_calories": "200",
+    "description": "Grilled steak topped with onion, cilantro, and salsa. Choose corn or flour tortilla.",
+    "landingPageUrl": "https://menu.turtleheadtacos.com",
+    "name": "Carne Asada Taco",
+    "primaryPhoto": {
+      "image": {
+        "height": 3875,
+        "thumbnails": [
+          {
+            "height": 3875,
+            "url": "https://a.mktgcdn.com/p-sandbox/e3c3abzk__5pRwPK2ibreOXMGtCTCcOfrRonWm8GNxw/5166x3875.jpg",
+            "width": 5166
+          },
+          {
+            "height": 1425,
+            "url": "https://a.mktgcdn.com/p-sandbox/e3c3abzk__5pRwPK2ibreOXMGtCTCcOfrRonWm8GNxw/1900x1425.jpg",
+            "width": 1900
+          },
+          {
+            "height": 464,
+            "url": "https://a.mktgcdn.com/p-sandbox/e3c3abzk__5pRwPK2ibreOXMGtCTCcOfrRonWm8GNxw/619x464.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/e3c3abzk__5pRwPK2ibreOXMGtCTCcOfrRonWm8GNxw/600x450.jpg",
+            "width": 600
+          },
+          {
+            "height": 147,
+            "url": "https://a.mktgcdn.com/p-sandbox/e3c3abzk__5pRwPK2ibreOXMGtCTCcOfrRonWm8GNxw/196x147.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/e3c3abzk__5pRwPK2ibreOXMGtCTCcOfrRonWm8GNxw/5166x3875.jpg",
+        "width": 5166
+      }
+    }
+  },
+  "entityType": "ce_menuItem",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,52 @@
+{
+  "$id": "menu-item-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeOnSearch": true,
+    "c_allergens": [
+      "WHEAT"
+    ],
+    "c_calories": "280",
+    "description": "Crispy Baja fish topped with pico de gallo and radish. Choose corn or flour tortilla.",
+    "landingPageUrl": "https://menu.turtleheadtacos.com",
+    "name": "Crispy Fish Tacos",
+    "primaryPhoto": {
+      "image": {
+        "height": 3456,
+        "thumbnails": [
+          {
+            "height": 3456,
+            "url": "https://a.mktgcdn.com/p-sandbox/jjV2CcUAB8bnlfmSPhScPqQIKUSl1A8eapPJIojt_E8/3456x3456.jpg",
+            "width": 3456
+          },
+          {
+            "height": 1900,
+            "url": "https://a.mktgcdn.com/p-sandbox/jjV2CcUAB8bnlfmSPhScPqQIKUSl1A8eapPJIojt_E8/1900x1900.jpg",
+            "width": 1900
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/jjV2CcUAB8bnlfmSPhScPqQIKUSl1A8eapPJIojt_E8/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/jjV2CcUAB8bnlfmSPhScPqQIKUSl1A8eapPJIojt_E8/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/jjV2CcUAB8bnlfmSPhScPqQIKUSl1A8eapPJIojt_E8/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/jjV2CcUAB8bnlfmSPhScPqQIKUSl1A8eapPJIojt_E8/3456x3456.jpg",
+        "width": 3456
+      }
+    }
+  },
+  "entityType": "ce_menuItem",
+  "folder": "yext/root",
+  "labels": []
+}
