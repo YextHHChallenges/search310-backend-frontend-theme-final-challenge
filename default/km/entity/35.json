@@ -78,7 +78,8 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
-    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? We\u0027re the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "closed": true,
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? We're the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
     "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
